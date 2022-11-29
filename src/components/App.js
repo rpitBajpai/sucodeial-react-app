@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { getPosts } from '../api';
+import { Home } from '../pages';
 
 
 function App() {
